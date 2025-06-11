@@ -10,7 +10,7 @@
 🌎 **Based in:** Mexico
 🧠 **Focused on:** Backend systems, APIs, data pipelines, and ML for fintech  
 🎓 **Master's in Computer Science @ CIC-IPN**  
-📫 **Reach me at:** giovannac.chc@gmail.com | [LinkedIn](https://www.linkedin.com/in/giovanna-chichia)
+📫 **Reach me at:** giovannac.chc@gmail.com | [LinkedIn]([https://www.linkedin.com/in/giovanna-chichia](https://www.linkedin.com/in/giovanna-charlene-c-5395ab19a/))
 
 ---
 
